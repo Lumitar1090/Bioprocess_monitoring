@@ -30,12 +30,12 @@ Measurements for pH and temperature within the acceptable operating ranges are d
 ## Summary Table
 This summary table contains the percentage oif measurements within the optimal pH and temperature, as well as the final product concentration for Mode B. 
 
-| Batch ID | pH Optimal (%) | Temperature Optimal (%) | Final Product (g/L) |
-|---|---:|---:|---:|
-| 1 | 36.08 | 51.55 | 46.5 |
-| 2 | 34.71 | 55.37 | 50.8 |
-| 3 | 36.99 | 46.58 | 44.6 |
-| 4 | 54.12 | 62.35 | 48.6 |
-| 5 | 16.51 | 49.54 | 24.7 |
+|batch_id|ph_optimal_percent|temperature_optimal_percent|C_product_g_L^-1_final|
+|--------|------------------|---------------------------|----------------------|
+|1       |36.08             |51.55                      |46.5                  |
+|2       |34.71             |55.37                      |50.8                  |
+|3       |36.99             |46.58                      |44.6                  |
+|4       |54.12             |62.35                      |48.6                  |
+|5       |16.51             |49.54                      |24.7                  |
 
 Each batch is listed under a separate batch ID and their optimal pH, temperature and concentration are displayed under separate headings for each batch, as shown above.
